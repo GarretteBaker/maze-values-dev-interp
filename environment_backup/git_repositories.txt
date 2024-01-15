@@ -1,0 +1,2 @@
+https://github.com/JacobPfau/procgenAISC
+https://github.com/joonleesky/train-procgen-pytorch
